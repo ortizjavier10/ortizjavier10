@@ -31,6 +31,15 @@
   p {
     margin: 0;
   }
+
+  .profile-picture img {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: right;
+  }
   
   header {
     padding: 20px 50px;
