@@ -1,6 +1,5 @@
 # Javier Ortiz Developer Portfolio
-My developer portfolio showcasing my projects and info about me
-<img src="assets/images/icons8-web-accessibility-48.png" >
+My developer portfolio showcasing my projects and info about me.
 
 Website
 <img src="./assets/images/screenshot.jpg" >
